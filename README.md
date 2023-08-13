@@ -1,30 +1,38 @@
-Project: Employee Management System
+# Employee Management System
+
 This repository contains a PHP-based Employee Management System that allows you to perform CRUD (Create, Read, Update, Delete) operations on employees. The system includes input field validations, front-end validation using JavaScript, and user authentication to control access.
 
-Table of Contents
-Features
-Prerequisites
-Installation
-Usage
-Contributing
-License
-Features
-CRUD operations for employees
-Input field validations with appropriate warning messages
-Front-end validation using JavaScript
-User authentication to control access
-Prerequisites
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- CRUD operations for employees
+- Input field validations with appropriate warning messages
+- Front-end validation using JavaScript
+- User authentication to control access
+
+## Prerequisites
+
 Before you begin, ensure you have the following installed:
 
-XAMPP: A development environment containing Apache, MySQL, PHP, and Perl.
-Installation
-Install XAMPP by following the instructions on their website.
+- [XAMPP](https://www.apachefriends.org/index.html): A development environment containing Apache, MySQL, PHP, and Perl.
 
-Clone this repository to your local machine using:
+## Installation
 
+1. Install XAMPP by following the instructions on their website.
 
-git clone https://github.com/sammanamgain/Employee-management-using-php.git
-Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
+2. Clone this repository to your local machine using:
+
+   ```bash
+   git clone https://github.com/sammanamgain/Employee-management-using-php.git
+
 
 
 [XAMPP Installation Directory]
