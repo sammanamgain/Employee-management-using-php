@@ -49,6 +49,7 @@ bitnami.css</br>
 favicon</br>
 index.php</br>
 </ul>
+<p>
 Start the Apache and MySQL services from the XAMPP control panel.</br>
 
 Import the database schema into your MySQL database:</br>
@@ -62,7 +63,7 @@ employee schema looks like this</br>
 ![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/17101373-4cfc-4beb-8ea2-670926737e5b)
 also create users database and create a table user  and schema looks like this</br>
 ![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/6004ad08-ca86-4f7e-87ce-6ebb05de86e8)
-
+</p>
 
 
 <P>
@@ -86,7 +87,11 @@ Username: </br>
 Password: </br>
 Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.</br>
 </p>
+
+
 ## Contributing</br>
+
+
 Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.</br>
 
 
