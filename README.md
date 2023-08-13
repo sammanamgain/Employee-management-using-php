@@ -65,20 +65,20 @@ also create users database and create a table user  and schema looks like this</
 
 
 
-Open a web browser and navigate to http://localhost/phpmyadmin.
-Create a new database named employee_management_db.
-Inside the newly created database, import the database.sql file from the repository's root directory.
+Open a web browser and navigate to http://localhost/phpmyadmin.</br>
+Create a new database named employee_management_db.</br>
+Inside the newly created database, import the database.sql file from the repository's root directory.</br>
 ##Usage
-Open a web browser and navigate to http://localhost/lab.
+Open a web browser and navigate to http://localhost/lab.</br>
 
-You'll be prompted to log in.
-First create a userid , use signup button and after this you will be redirected to login page  and use username and password to navigate to home folder
+You'll be prompted to log in.</br>
+First create a userid , use signup button and after this you will be redirected to login page  and use username and password to navigate to home folder</br>
 
-Username: 
-Password: 
-Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.
+Username: </br>
+Password: </br>
+Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.</br>
 
-##Contributing
-Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.
+##Contributing</br>
+Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.</br>
 
 
