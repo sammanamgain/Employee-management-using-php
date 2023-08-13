@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed:
 Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
 
 
-dashboard
+dashboard</br>
 img
 lab
 tuts
