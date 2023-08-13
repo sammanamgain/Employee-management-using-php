@@ -37,19 +37,18 @@ Before you begin, ensure you have the following installed:
 
 Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
 
-csharp
-Copy code
-[XAMPP Installation Directory]
-├── htdocs/
-│   ├── lab/
-│   │   ├── index.php
-│   │   ├── employee.php
-│   │   ├── js/
-│   │   │   └── validation.js
-│   │   ├── css/
-│   │   │   └── styles.css
-│   │   ├── ...
-│   ├── ...
+
+dashboard
+img
+lab
+tuts
+webalizer
+xampp
+applications
+Chrome HTML Document
+bitnami.css
+favicon
+index..
 Start the Apache and MySQL services from the XAMPP control panel.
 
 Import the database schema into your MySQL database:
