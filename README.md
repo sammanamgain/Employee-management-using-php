@@ -9,7 +9,7 @@ This repository contains a PHP-based Employee Management System that allows you 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -77,15 +77,26 @@ Inside the newly created database, import the database.sql file from the reposit
 
 
 <p>
-Open a web browser and navigate to http://localhost/lab.</br>
+click the admin panel menu from xampp and you  will be redirected to home page</br>
 
 
 You'll be prompted to log in.</br>
-First create a userid , use signup button and after this you will be redirected to login page  and use username and password to navigate to home folder</br>
+Login page looks like this.</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/a67fd3eb-59d7-42b5-a5fb-9a9038423952)
+
+First create a userid , use signup button</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/ccacc27b-f782-43f5-89a2-6f2c8741f5c2)
+
+
+and after this you will be redirected to login page  and use username and password to navigate to home folder</br>
 
 Username: </br>
 Password: </br>
 Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.</br>
+company information UI looks like this</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/d012c345-d115-46b0-ac6b-e1a7efe17b5c)
+
+
 </p>
 
 
