@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 
 Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
-
+<ul>
 dashboard</br>
 img</br>
 lab</br>
@@ -48,6 +48,7 @@ Chrome HTML Document</br>
 bitnami.css</br>
 favicon</br>
 index.php</br>
+</ul>
 Start the Apache and MySQL services from the XAMPP control panel.</br>
 
 Import the database schema into your MySQL database:</br>
@@ -64,12 +65,15 @@ also create users database and create a table user  and schema looks like this</
 
 
 
-
+<h3>
 Open a web browser and navigate to http://localhost/phpmyadmin.</br>
 Create a new database named employee_management_db.</br>
 Inside the newly created database, import the database.sql file from the repository's root directory.</br>
-##Usage
+</h3>
+## Usage
+<h3>
 Open a web browser and navigate to http://localhost/lab.</br>
+
 
 You'll be prompted to log in.</br>
 First create a userid , use signup button and after this you will be redirected to login page  and use username and password to navigate to home folder</br>
@@ -77,8 +81,8 @@ First create a userid , use signup button and after this you will be redirected 
 Username: </br>
 Password: </br>
 Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.</br>
-
-##Contributing</br>
+</h3>
+## Contributing</br>
 Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.</br>
 
 
