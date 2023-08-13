@@ -22,13 +22,11 @@ Install XAMPP by following the instructions on their website.
 
 Clone this repository to your local machine using:
 
-bash
-Copy code
+
 git clone https://github.com/sammanamgain/Employee-management-using-php.git
 Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
 
-csharp
-Copy code
+
 [XAMPP Installation Directory]
 ├── htdocs/
 │   ├── lab/
