@@ -65,12 +65,12 @@ also create users database and create a table user  and schema looks like this</
 
 
 
-<h3>
+<P>
 Open xampp admin panel , start the apache server and move to the admin panel and also start the MySQL server and click on admin panel</br>
 Create a new database named employee_management_db.</br>
 Inside the newly created database, import the database.sql file from the repository's root directory.</br>
-</h3>
-## Usage
+</P>
+## usage
 <p>
 Open a web browser and navigate to http://localhost/lab.</br>
 
