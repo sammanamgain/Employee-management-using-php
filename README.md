@@ -35,6 +35,10 @@ Before you begin, ensure you have the following installed:
 
 
 
+Move the cloned repository files to the lab folder inside the htdocs directory of your XAMPP installation. The directory structure should look like:
+
+csharp
+Copy code
 [XAMPP Installation Directory]
 ├── htdocs/
 │   ├── lab/
@@ -67,7 +71,3 @@ Contributions are welcome! If you find any issues or improvements, feel free to 
 
 License
 This project is licensed under the MIT License.
-output looks like this
-![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/3381fca7-5934-4ec3-a27f-55b0762a1da5)
-![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/6235dcb4-9c55-4745-ba88-40febe72f0fa)
-![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/99a9d543-7b1b-4ffe-8abd-444448145eda)
