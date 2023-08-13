@@ -70,7 +70,7 @@ Open xampp admin panel , start the apache server and move to the admin panel and
 Create a new database named employee_management_db.</br>
 Inside the newly created database, import the database.sql file from the repository's root directory.</br>
 </P>
-## usage
+## Usage
 <p>
 Open a web browser and navigate to http://localhost/lab.</br>
 
