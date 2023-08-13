@@ -48,24 +48,37 @@ Chrome HTML Document</br>
 bitnami.css</br>
 favicon</br>
 index.php</br>
-Start the Apache and MySQL services from the XAMPP control panel.
+Start the Apache and MySQL services from the XAMPP control panel.</br>
 
-Import the database schema into your MySQL database:
+Import the database schema into your MySQL database:</br>
+create a database called company </br>
+inside company create two table :</br>
+1)companydetails</br>
+2)employee</br>
+companydetaisl schema looks like this</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/40d72fb9-f12c-48bf-9b0c-9e1f2f9dda03)
+employee schema looks like this</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/17101373-4cfc-4beb-8ea2-670926737e5b)
+also create users database and create a table user  and schema looks like this</br>
+![image](https://github.com/sammanamgain/Employee-management-using-php/assets/78356846/6004ad08-ca86-4f7e-87ce-6ebb05de86e8)
+
+
+
 
 Open a web browser and navigate to http://localhost/phpmyadmin.
 Create a new database named employee_management_db.
 Inside the newly created database, import the database.sql file from the repository's root directory.
-Usage
+##Usage
 Open a web browser and navigate to http://localhost/lab.
 
-You'll be prompted to log in. Use the default credentials:
+You'll be prompted to log in.
+First create a userid , use signup button and after this you will be redirected to login page  and use username and password to navigate to home folder
 
-Username: admin
-Password: password
-Once logged in, you can perform CRUD operations on employees. The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.
+Username: 
+Password: 
+Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.
 
-Contributing
+##Contributing
 Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.
 
-License
-This project is licensed under the MIT License.
+
