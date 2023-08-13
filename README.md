@@ -66,12 +66,12 @@ also create users database and create a table user  and schema looks like this</
 
 
 <h3>
-Open a web browser and navigate to http://localhost/phpmyadmin.</br>
+Open xampp admin panel , start the apache server and move to the admin panel and also start the MySQL server and click on admin panel</br>
 Create a new database named employee_management_db.</br>
 Inside the newly created database, import the database.sql file from the repository's root directory.</br>
 </h3>
 ## Usage
-<h3>
+<p>
 Open a web browser and navigate to http://localhost/lab.</br>
 
 
@@ -81,7 +81,7 @@ First create a userid , use signup button and after this you will be redirected 
 Username: </br>
 Password: </br>
 Once logged in, you can perform CRUD operations on employees and company . The input fields are validated both on the front-end using JavaScript and on the back-end using PHP.</br>
-</h3>
+</p>
 ## Contributing</br>
 Contributions are welcome! If you find any issues or improvements, feel free to create a pull request.</br>
 
